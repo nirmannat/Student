@@ -24,6 +24,7 @@ public class StudentList {
         for (int i=0;i<sList.length;i++)
         {
             System.out.println(sList[i].getName());
+            //Hello
           
         }
         
